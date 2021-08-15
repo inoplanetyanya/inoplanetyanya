@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3>Hi 👋, I'm Daniil aka inoplanetyanya</h3>
+<br/>
+<a href="https://www.codewars.com/users/inoplanetyanya"><img src="https://www.codewars.com/users/inoplanetyanya/badges/large"/></a>
 
 <!--
 **inoplanetyanya/inoplanetyanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
