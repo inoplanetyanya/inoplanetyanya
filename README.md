@@ -1,5 +1,3 @@
-<h3>Hi 👋, I'm Daniil aka inoplanetyanya</h3>
-<br/>
 <a href="https://www.codewars.com/users/inoplanetyanya"><img src="https://www.codewars.com/users/inoplanetyanya/badges/large"/></a>
 
 <!--
