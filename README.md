@@ -1,7 +1,6 @@
 <h1> Hi there 👋 I'm Daniil Stepanov </h1>
 
 - 🔭 I’m currently working on **frontend development**
-- 🌱 I’m currently learning **backend development with Golang**
 
 <h2>Contact me 🤝</h2>
 
